@@ -1,0 +1,1 @@
+all examples were generated with 1045*697 input images
