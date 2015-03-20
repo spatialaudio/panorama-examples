@@ -1,0 +1,7 @@
+i w5472 h3648 f21 v170 y+180.000 p5 r91 n"2015-03-12_153000_blende4_verschluss40.jpg"
+i w5472 h3648 f21 v170 y+128.571 p5 r91 n"2015-03-12_153017_blende4_verschluss40.jpg"
+i w5472 h3648 f21 v170 y+077.143 p5 r91 n"2015-03-12_153031_blende4_verschluss40.jpg"
+i w5472 h3648 f21 v170 y+025.714 p5 r91 n"2015-03-12_153049_blende4_verschluss40.jpg"
+i w5472 h3648 f21 v170 y-025.714 p5 r91 n"2015-03-12_153107_blende4_verschluss40.jpg"
+i w5472 h3648 f21 v170 y-077.143 p5 r91 n"2015-03-12_153124_blende4_verschluss40.jpg"
+i w5472 h3648 f21 v170 y-128.571 p5 r91 n"2015-03-12_153139_blende4_verschluss40.jpg"

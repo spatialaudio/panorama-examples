@@ -1,0 +1,18 @@
+# PTStitcher script for nona
+
+p f2 w3000 h1500 v360  n"TIFF_m c:LZW r:CROP"
+
+# manual01: v175 a0 b0.003 c0
+# manual02: v170
+# manual03: v165
+# manual04: v168
+# manual05: v169.7 a0.038 b-0.186 c0.233
+# manual06: v170.7 a0.034 b-0.097 c0.09 d61.4 e-3.1
+
+i w5472 h3648 f21 v170.7 y+180.000 p5 r91 a0.034 b-0.097 c0.09 d61.4 e-3.1 n"2015-03-12_153000_blende4_verschluss40.jpg"
+i w5472 h3648 f21 v170.7 y+128.571 p5 r91 a0.034 b-0.097 c0.09 d61.4 e-3.1 n"2015-03-12_153017_blende4_verschluss40.jpg"
+i w5472 h3648 f21 v170.7 y+077.143 p5 r91 a0.034 b-0.097 c0.09 d61.4 e-3.1 n"2015-03-12_153031_blende4_verschluss40.jpg"
+i w5472 h3648 f21 v170.7 y+025.714 p5 r91 a0.034 b-0.097 c0.09 d61.4 e-3.1 n"2015-03-12_153049_blende4_verschluss40.jpg"
+i w5472 h3648 f21 v170.7 y-025.714 p5 r91 a0.034 b-0.097 c0.09 d61.4 e-3.1 n"2015-03-12_153107_blende4_verschluss40.jpg"
+i w5472 h3648 f21 v170.7 y-077.143 p5 r91 a0.034 b-0.097 c0.09 d61.4 e-3.1 n"2015-03-12_153124_blende4_verschluss40.jpg"
+i w5472 h3648 f21 v170.7 y-128.571 p5 r91 a0.034 b-0.097 c0.09 d61.4 e-3.1 n"2015-03-12_153139_blende4_verschluss40.jpg"

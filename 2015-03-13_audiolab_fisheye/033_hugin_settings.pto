@@ -1,0 +1,56 @@
+# hugin project file
+#hugin_ptoversion 2
+p f4 w16721 h16394 v249  E0 R0 S0,16721,0,15757 n"TIFF_m c:LZW"
+m g1 i0 f0 m2 p0.00784314
+
+# image lines
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r91.1000000000004 p-85.25 y-3.90657641249412e-13 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_124035_20_5.0.jpg"
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r176.366239598477 p-44.803554172841 y-83.2977911604787 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_124049_20_5.0.jpg"
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r-178.9 p3.20578465416462e-15 y-85.25 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_124103_20_5.0.jpg"
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r-174.166239598477 p44.803554172841 y-83.2977911604786 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_124124_20_5.0.jpg"
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r-88.9000000000003 p85.25 y-1.59683334008783e-13 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_124137_20_5.0.jpg"
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r-3.6337604015231 p44.803554172841 y83.2977911604786 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_124148_20_5.0.jpg"
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r1.10000000000002 p-2.21512639406698e-14 y85.25 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_124207_20_5.0.jpg"
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r5.83376040152311 p-44.803554172841 y83.2977911604786 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_124223_20_5.0.jpg"
+
+
+# specify variables that should be optimized
+v
+
+
+# control points
+
+#hugin_optimizeReferenceImage 0
+#hugin_blender enblend
+#hugin_remapper nona
+#hugin_enblendOptions 
+#hugin_enfuseOptions 
+#hugin_hdrmergeOptions 
+#hugin_outputLDRBlended false
+#hugin_outputLDRLayers false
+#hugin_outputLDRExposureRemapped false
+#hugin_outputLDRExposureLayers false
+#hugin_outputLDRExposureBlended true
+#hugin_outputLDRStacks false
+#hugin_outputLDRExposureLayersFused false
+#hugin_outputHDRBlended false
+#hugin_outputHDRLayers false
+#hugin_outputHDRStacks false
+#hugin_outputLayersCompression LZW
+#hugin_outputImageType png
+#hugin_outputImageTypeCompression LZW
+#hugin_outputJPEGQuality 100
+#hugin_outputImageTypeHDR exr
+#hugin_outputImageTypeHDRCompression LZW
+#hugin_outputStacksMinOverlap 0.7
+#hugin_outputLayersExposureDiff 0.5
+#hugin_optimizerMasterSwitch 0
+#hugin_optimizerPhotoMasterSwitch 0

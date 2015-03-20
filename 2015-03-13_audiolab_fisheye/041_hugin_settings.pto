@@ -1,0 +1,56 @@
+# hugin project file
+#hugin_ptoversion 2
+p f2 w12868 h6434 v360  E0 R0 n"TIFF_m c:LZW"
+m g1 i0 f0 m2 p0.00784314
+
+# image lines
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r91.1 p4.75 y180 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_130935_outoffocus.jpg"
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r91.1 p4.75 y135 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_130952_outoffocus.jpg"
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r91.1 p4.75 y90 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_131005_outoffocus.jpg"
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r91.1 p4.75 y45 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_131023_outoffocus.jpg"
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r91.1 p4.75 y0 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_131035_outoffocus.jpg"
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r91.1 p4.75 y-45 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_131050_outoffocus.jpg"
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r91.1 p4.75 y-90 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_131109_outoffocus.jpg"
+#-hugin  cropFactor=1
+i w5472 h3648 f21 v170.976927323125 Ra0 Rb0 Rc0 Rd0 Re0 Eev0 Er1 Eb1 r91.1 p4.75 y-135 TrX0 TrY0 TrZ0 Tpy0 Tpp0 j0 a-0.0563452380468773 b0.136628701487408 c-0.0966898156577193 d-3.83151290666913 e-1.35681007100249 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 n"2015-03-13_131125_outoffocus.jpg"
+
+
+# specify variables that should be optimized
+v
+
+
+# control points
+
+#hugin_optimizeReferenceImage 0
+#hugin_blender enblend
+#hugin_remapper nona
+#hugin_enblendOptions 
+#hugin_enfuseOptions 
+#hugin_hdrmergeOptions 
+#hugin_outputLDRBlended true
+#hugin_outputLDRLayers false
+#hugin_outputLDRExposureRemapped false
+#hugin_outputLDRExposureLayers false
+#hugin_outputLDRExposureBlended false
+#hugin_outputLDRStacks false
+#hugin_outputLDRExposureLayersFused false
+#hugin_outputHDRBlended false
+#hugin_outputHDRLayers false
+#hugin_outputHDRStacks false
+#hugin_outputLayersCompression LZW
+#hugin_outputImageType png
+#hugin_outputImageTypeCompression LZW
+#hugin_outputJPEGQuality 100
+#hugin_outputImageTypeHDR exr
+#hugin_outputImageTypeHDRCompression LZW
+#hugin_outputStacksMinOverlap 0.7
+#hugin_outputLayersExposureDiff 0.5
+#hugin_optimizerMasterSwitch 0
+#hugin_optimizerPhotoMasterSwitch 0

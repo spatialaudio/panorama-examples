@@ -1,0 +1,10 @@
+# PTStitcher script for nona
+
+# width 12724 x height 6362 calculated by Hugin ("Calculate Optimal Size")
+
+p f2 w12724 h6362 v360 n"TIFF_m c:LZW r:CROP"
+
+i w5472 h3648 f2 v160 y+180 p5 r91 n"2015-03-13_124035_20_5.0.jpg"
+i w5472 h3648 f2 v160 y+090 p5 r91 n"2015-03-13_124103_20_5.0.jpg"
+i w5472 h3648 f2 v160 y+000 p5 r91 n"2015-03-13_124137_20_5.0.jpg"
+i w5472 h3648 f2 v160 y-090 p5 r91 n"2015-03-13_124207_20_5.0.jpg"

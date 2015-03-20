@@ -1,0 +1,9 @@
+# manually written, minimalistic Hugin project file
+
+# no information about image size
+# only lens type (equisolid), field of view and yaw/pitch/roll
+
+i f21 v170 y+180 p5 r91 n"2015-03-13_124035_20_5.0.jpg"
+i f21 v170 y+090 p5 r91 n"2015-03-13_124103_20_5.0.jpg"
+i f21 v170 y+000 p5 r91 n"2015-03-13_124137_20_5.0.jpg"
+i f21 v170 y-090 p5 r91 n"2015-03-13_124207_20_5.0.jpg"
